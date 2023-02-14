@@ -1,4 +1,3 @@
-### Olá!Eu sou o Taylor Hudson 👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taylor-hudson-208181232/)
 
 
