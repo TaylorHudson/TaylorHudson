@@ -1,7 +1,5 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taylor-hudson-208181232/)
 
-![Taylor GitHub stats](https://github-readme-stats.vercel.app/api?username=TaylorHudson&show_icons=true&theme=tokyonight)
-
 ## Skills 
 <div style="display:inline_block"><br/>
     <img align="center" alt="Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
