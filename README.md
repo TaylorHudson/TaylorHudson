@@ -20,5 +20,4 @@
 
 <div> 
     <a href = "https://www.linkedin.com/in/taylor-hudson-208181232"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:taylorhudsonsantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
